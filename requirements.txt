@@ -1,2 +1,2 @@
 streamlit == 1.18.1
-opencv-python
+opencv-python ==  4.8.1.78
